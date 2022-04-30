@@ -5,6 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
+#测试
 name: OpenWrt-CI
 
 on:
